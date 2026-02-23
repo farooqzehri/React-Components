@@ -6,7 +6,7 @@ function App() {
     <div className="min-h-screen bg-gray-100 p-8">
       
       <h1 className="text-3xl font-bold text-center mb-10">
-        Product List
+        Apna Store!
       </h1>
 
 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
