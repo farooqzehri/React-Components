@@ -1,7 +1,11 @@
-import React from 'react'
+import React, { useState } from 'react'
 function App() {
+  const [data , setData] = useState([])
   return (
-    <div>Components</div>
+    <>
+    <h1>Hello World.</h1>
+    </>
+    
   )
 }
 export default App
